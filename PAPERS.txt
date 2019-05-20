@@ -1,0 +1,8 @@
+HK-trace
+Soumya Basu, Aditya Sundarrajan, Javad Ghaderi, Sanjay Shakkottai and Ramesh K. Sitaraman, “Adaptive TTL-based caching for content delivery”, IEEE/ACM Transactions on Networking, 2018
+Daniel S. Berger, Ramesh K. Sitaraman and Mor Harchol-Balter, "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network", USENIX NSDI 2017
+Aditya Sundarrajan, Mangesh Kasbekar and Ramesh K. Sitaraman, “Energy-efficient disk caching for content delivery”, ACM e-Energy 2016
+
+US-trace
+Daniel S. Berger, Ramesh K. Sitaraman and Mor Harchol-Balter, "AdaptSize: Orchestrating the Hot Object Memory Cache in a Content Delivery Network", USENIX NSDI 2017
+
